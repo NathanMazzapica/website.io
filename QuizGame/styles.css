@@ -1,0 +1,32 @@
+body {
+  background: rgb(140, 140, 140);
+  margin: 0;
+}
+
+h1 {
+  font-size: 4em;
+  text-align: center;
+}
+
+#quiz-background {
+  border: 5px solid black;
+  background: royalblue;
+  border-radius: 30px;
+  position: absolute;
+  top: 15px;
+  left: 25%;
+  margin: auto;
+  width: 50vw;
+  height: 40vw;
+  padding: 70px 0;
+  /*text-align: center;*/
+}
+
+#answer-container {
+  border: 5px solid black;
+  background: rgb(180, 180, 180);
+  margin: auto;
+  padding: 5px;
+  width: 90%;
+  font-size: 1.2em;
+}
